@@ -4,11 +4,13 @@ private에 지금까지 진행 한 행사를 전부 올려 두었으나 확인�
 
 세 개의 프로젝트에 대해서만 간략하게 GCP에 올려 구동한 상태입니다.
 
-2018년 (입사 시 프로그램) ex)ISAP 2018 http://34.68.56.250/project/isap2018/default.php
+2020년 8월달에 업로드를 하였는데, 현재 무료 크레딧이 만료되어 해당 데이터를 내렸습니다.
 
-2019년 초 (서버 이전과 css 변경) ex)ICHSEA 2019  http://34.68.56.250/project/ichsea2019/default.php
+2018년 (입사 시 프로그램) ex)ISAP 2018 ~~http://34.68.56.250/project/isap2018/default.php~~
 
-2019년 후반 (basic program 완성) ex)IMID 2019  http://34.68.56.250/project/imid2019/default.php
+2019년 초 (서버 이전과 css 변경) ex)ICHSEA 2019  ~~http://34.68.56.250/project/ichsea2019/default.php~~
+
+2019년 후반 (basic program 완성) ex)IMID 2019  ~~http://34.68.56.250/project/imid2019/default.php~~
 
 IMID 2019 관리자 admin / admin
 
@@ -158,11 +160,11 @@ Excel파일에 추가해서 저에게 전달하면 행사장에서 사용하는 
 
 http사이트로 구축 되었으며 순수하게 javascript와 php만으로 구성 된 홈페이지였습니다.
 
-2018년 (입사 시 프로그램) ex)ISAP 2018 http://34.68.56.250/project/isap2018/default.php
+2018년 (입사 시 프로그램) ex)ISAP 2018 ~~http://34.68.56.250/project/isap2018/default.php~~
 
-2019년 초 (서버 이전과 css 변경) ex)ICHSEA 2019  http://34.68.56.250/project/ichsea2019/default.php
+2019년 초 (서버 이전과 css 변경) ex)ICHSEA 2019  ~~http://34.68.56.250/project/ichsea2019/default.php~~
 
-2019년 후반 (basic program 완성) ex)IMID 2019  http://34.68.56.250/project/imid2019/default.php
+2019년 후반 (basic program 완성) ex)IMID 2019  ~~http://34.68.56.250/project/imid2019/default.php~~
 
 IMID 2019 관리자 admin / admin
 
